@@ -7,5 +7,5 @@ Research Resources
 
 
 
-Open access ibrary of resources collected in one place for both beginner and seasoned UX, Design and Product Researchers
+Open access library of resources collected in one place for both beginner and seasoned UX, Design and Product Researchers
 
